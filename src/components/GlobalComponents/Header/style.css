@@ -1,0 +1,14 @@
+.navBar{
+  flex: 1;
+  flex-direction: row;
+  justify-content: center;
+}
+.navBar__text_link{
+  color: #ffffff  !important;
+}
+  
+.brand{
+  font-weight: 700;
+  color: #ffffff ;
+  text-align: center;
+}
